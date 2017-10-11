@@ -1,4 +1,5 @@
-start of lineVer2
+start of lineVer01
+>>>>>>> 75c40d3c952655d4b5d2cc3aaa1178933f98649e
 1	Lysozyme	Chicken	LYSC_CHICK	P00698
 2	Lysozyme	Human	LYSC_HUMAN	P61626
 Hemoglobin-alpha	Human	HBA_HUMAN	P69905
